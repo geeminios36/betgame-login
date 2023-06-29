@@ -1,4 +1,3 @@
-
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -17,8 +16,8 @@ class Login:
         # self.getData()
 
     def loginWeb(self): 
-        usernameStr = 'develop@wevnal.co.jp'
-        passwordStr = 'wevnal123'
+        usernameStr = 'develop'
+        passwordStr = '12345'
 
         browser = webdriver.Chrome()
         browser.get(('http://127.0.0.1:8000/'))
@@ -37,32 +36,35 @@ class Login:
 
         browser.switch_to.window(browser.window_handles[1])
         browser.get(('http://127.0.0.1:8000/user'))
+        sleep(5)   
         a = browser.find_element(By.ID, "datatable_user_wrapper").get_attribute("outerHTML")
         
         # #start login again
-        # browser.switch_to.window(browser.window_handles[0])
-        # browser.get(('http://127.0.0.1:8000/logout'))
-        # sleep(3)
+        browser.switch_to.window(browser.window_handles[0])
+        browser.get(('http://127.0.0.1:8000/logout'))
+        sleep(3)
 
-        # browser.find_element(By.ID, "inputEmail").send_keys(usernameStr)
-        # browser.find_element(By.ID, "inputPassword").send_keys(passwordStr)
-        # browser.find_element(By.CLASS_NAME, "btn-login").click()
-        # #end login again
-        # sleep(4)
+        browser.find_element(By.ID, "inputEmail").send_keys(usernameStr)
+        browser.find_element(By.ID, "inputPassword").send_keys(passwordStr)
+        browser.find_element(By.CLASS_NAME, "btn-login").click()
+        #end login again
+        sleep(4)
 
-        # browser.execute_script("window.open('');")
-        # browser.switch_to.window(browser.window_handles[2])
-        # # # browser.execute_script('''window.open("https://tx.app611.net/Game/KULive.aspx?kuUrl=https://gat5.vn3kuvideo.com/", "_blank");''')
-        # browser.get("http://127.0.0.1:8000/dashboard#keeper")
-        # b = browser.find_element(By.ID, "datatable_keeper").text
-        # # sleep(10)   
+        browser.execute_script("window.open('');")
+        browser.switch_to.window(browser.window_handles[2])
+        # # browser.execute_script('''window.open("https://tx.app611.net/Game/KULive.aspx?kuUrl=https://gat5.vn3kuvideo.com/", "_blank");''')
+        browser.get("http://127.0.0.1:8000/bot")
+        sleep(5)   
+        b = browser.find_element(By.ID, "datatable_bot_wrapper").get_attribute("outerHTML")
+        # sleep(10)   
    
         i=0
         while(True):
             i=i+1
             try: 
                 print('incoming ')
-                self.getData(a)
+                self.getData(a, 'cn')
+                self.getData(b, 'mc')
                 # print('incoming b', b)
                 # scrollPane = browser.find_element(By.ID, "datatable_keeper").text
                 # scrollPane = browser.find_element(By.ID, "scroll_pane")
@@ -77,9 +79,9 @@ class Login:
             sleep(5)
             pass
 
-    def getData(self, source): 
+    def getData(self, source, type): 
         # page = requests.get(url)
-        self.append_new_line("saving.html", source)
+        self.append_new_line('./public/domHTML/'+type+".html", source)
         # with open("saving.html", "wb") as file:
         #     file.write(source.encode())
         # with open('../saving.html', 'wb+') as f:
@@ -94,10 +96,10 @@ class Login:
         with open(file_name, "wb") as file:
             file.write(source.encode())
         
-        script = open('index.js', "r+")
-        file = open(file_name, "a")
-        file.write("\n")
-        file.write("<script>"+script.read()+"</script>")
+        # script = open('index.js', "r+")
+        # file = open(file_name, "a")
+        # file.write("\n")
+        # file.write("<script>"+script.read()+"</script>")
 
 
 if __name__ == "__main__":
