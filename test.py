@@ -93,7 +93,7 @@ class Login:
         # print("\n".join("{} {}".format(el['class'], el.get_text()) for el in elements))
 
     def append_new_line(self, file_name, source):
-        with open(file_name, "wb") as file:
+        with open(file_name, "a") as file:
             file.write(source.encode())
         
         # script = open('index.js', "r+")

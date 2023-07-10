@@ -1,0 +1,451 @@
+<div id="scroll_pane" class="scroll_pane"><div class="game_box" id="11_101" style="cursor:pointer">
+                                        
+                                        <div class="game_top">
+                                            <div class="game_top_t_L">
+                                                    
+                                                    
+                                                    <span id="gtypeName" class="green_t3">CN Baccarat</span><span class="orange_t"></span><span class="game_number">A</span>
+                                            </div>
+                                            <div class="game_top_t_R">
+                                                <div style="" class="countWord reciprocal_text 11_101_status">MB</div>
+                                            </div>
+                                        </div>
+                                       <div class="game_m ">
+                                            <div class="girl_photo">
+                                                <img style="width:97px;height:107px" src="https://multimedia.cpdx2577.net/OutputIOContext/Dealer/70036.jpg">
+                                                <div class="girl_name girl_bg01" style="display:block;"><span>Iris</span></div>
+                                            </div>
+                                                
+                                                <div class="RoadGame_T"><div class="road_Blackout"><div class="hall_ballCount">
+                                        <div class="hall_countTitle"><div class="hall_countImg redBall_banker"></div></div>
+                                        <div class="hall_percentLine"><div class="percentLine_red" style="width:56%;"></div></div>
+                                        <div class="hall_countText_red"><div>56%</div></div>
+                                    </div><div class="hall_ballCount">
+                                        <div class="hall_countTitle"><div class="hall_countImg blueBall_player"></div></div>
+                                        <div class="hall_percentLine"><div class="percentLine_blue" style="width:31%;"></div></div>
+                                        <div class="hall_countText_blue"><div>31%</div></div>
+                                    </div><div class="hall_ballCount">
+                                        <div class="hall_countTitle"><div class="hall_countImg greenBall_sum"></div></div>
+                                        <div class="hall_percentLine"><div class="percentLine_green" style="width:13%;"></div></div>
+                                        <div class="hall_countText_green"><div>13%</div></div>
+                                    </div></div><div class="bg_BacPromptBox" style="display:none;will-change: transform"><div class="bg_BacPrompt"></div><div class="bg_BacPromptTriangle"></div></div><table cellpadding="0" cellspacing="0" class="round dataInput_big roadBack" style="background-color: rgb(240, 240, 240); background-size: 18px 18px;"><tbody><tr><td><div class="red_spot_s top_L"></div><div class="green_ball_s">T</div></td><td><div class="red_ball_s">B</div></td><td><div class="green_ball_s">T</div></td><td></td><td></td><td></td></tr><tr><td><div class="blue_ball_s">P</div></td><td><div class="red_ball_s">B</div></td><td><div class="red_ball_s">B</div></td><td></td><td></td><td></td></tr><tr><td><div class="red_ball_s">B</div></td><td><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td></td><td></td><td></td></tr><tr><td><div class="blue_ball_s">P</div></td><td><div class="blue_spot_s btm_R"></div><div class="red_ball_s">B</div></td><td><div class="red_spot_s top_L"></div><div class="red_ball_s">B</div></td><td></td><td></td><td></td></tr><tr><td><div class="red_spot_s top_L"></div><div class="blue_ball_s">P</div></td><td><div class="red_ball_s">B</div></td><td></td><td></td><td></td><td></td></tr><tr><td><div class="red_ball_s">B</div></td><td><div class="red_spot_s top_L"></div><div class="red_ball_s">B</div></td><td></td><td></td><td></td><td></td></tr></tbody></table><table cellpadding="0" cellspacing="0" class="big dataInput_small roadBack" style="background-color: rgb(240, 240, 240); background-size: 12.8px 13.8px;"><tbody><tr><td><div class="ba_linkBox"></div><div class="green_block"></div><div class="red_spot_s top_L"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="s6_ring"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="s6_ring"></div><div class="blue_spot_s btm_R"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div><div class="red_spot_s top_L"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div><div class="red_spot_s top_L"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td></td><td><div class="ba_linkBox"></div><div class="red_ring"></div><div class="red_spot_s top_L"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="green_block"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table></div>
+                                        </div>
+                                        <div class="game_btm">
+                                            <div class="game_btm_L">
+                                                    <div class="red_ball">B</div>
+                                                    <span class="bankCount">9</span>
+                                                </div>
+                                                <div class="game_btm_L">
+                                                    <div class="blue_ball">P</div>
+                                                    <span class="playerCount">5</span>
+                                                </div>
+                                                <div class="game_btm_L">
+                                                    <div class="green_ball">T</div>
+                                                    <span class="tieCount">2</span>
+                                                </div>
+                                            <div class="game_btm_R">
+                                                <div class="game_select" style="display:none;">Chọn chỗ</div>
+                                            <div class="game_enter">Vào chơi</div>
+                                            </div>
+                                        </div>
+                                     </div><div class="game_box" id="11_102" style="cursor:pointer">
+                                        
+                                        <div class="game_top">
+                                            <div class="game_top_t_L">
+                                                    
+                                                    
+                                                    <span id="gtypeName" class="green_t3">CN Baccarat</span><span class="orange_t"></span><span class="game_number">B</span>
+                                            </div>
+                                            <div class="game_top_t_R">
+                                                <div style="" class="countNum reciprocal 11_102_status">11</div>
+                                            </div>
+                                        </div>
+                                       <div class="game_m ">
+                                            <div class="girl_photo">
+                                                <img style="width:97px;height:107px" src="https://multimedia.cpdx2577.net/OutputIOContext/Dealer/70039.jpg">
+                                                <div class="girl_name girl_bg01" style="display:block;"><span>Yuri</span></div>
+                                            </div>
+                                                
+                                                <div class="RoadGame_T"><div class="road_Blackout"><div class="hall_ballCount">
+                                        <div class="hall_countTitle"><div class="hall_countImg redBall_banker"></div></div>
+                                        <div class="hall_percentLine"><div class="percentLine_red" style="width:45%;"></div></div>
+                                        <div class="hall_countText_red"><div>45%</div></div>
+                                    </div><div class="hall_ballCount">
+                                        <div class="hall_countTitle"><div class="hall_countImg blueBall_player"></div></div>
+                                        <div class="hall_percentLine"><div class="percentLine_blue" style="width:36%;"></div></div>
+                                        <div class="hall_countText_blue"><div>36%</div></div>
+                                    </div><div class="hall_ballCount">
+                                        <div class="hall_countTitle"><div class="hall_countImg greenBall_sum"></div></div>
+                                        <div class="hall_percentLine"><div class="percentLine_green" style="width:19%;"></div></div>
+                                        <div class="hall_countText_green"><div>19%</div></div>
+                                    </div></div><div class="bg_BacPromptBox" style="display:none;will-change: transform"><div class="bg_BacPrompt"></div><div class="bg_BacPromptTriangle"></div></div><table cellpadding="0" cellspacing="0" class="round dataInput_big roadBack" style="background-color: rgb(240, 240, 240); background-size: 18px 18px;"><tbody><tr><td><div class="red_ball_s">B</div></td><td><div class="blue_ball_s">P</div></td><td></td><td></td><td></td><td></td></tr><tr><td><div class="red_ball_s">B</div></td><td><div class="blue_ball_s">P</div></td><td></td><td></td><td></td><td></td></tr><tr><td><div class="green_ball_s">T</div></td><td><div class="red_ball_s">B</div></td><td></td><td></td><td></td><td></td></tr><tr><td><div class="green_ball_s">T</div></td><td><div class="red_ball_s">B</div></td><td></td><td></td><td></td><td></td></tr><tr><td><div class="red_ball_s">B</div></td><td><div class="blue_ball_s">P</div></td><td></td><td></td><td></td><td></td></tr><tr><td><div class="blue_ball_s">P</div></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><table cellpadding="0" cellspacing="0" class="big dataInput_small roadBack" style="background-color: rgb(240, 240, 240); background-size: 12.8px 13.8px;"><tbody><tr><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="s6_ring"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="s6_ring"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><div class="ba_linkBox"></div><div class="green_block"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><div class="ba_linkBox"></div><div class="green_block"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table></div>
+                                        </div>
+                                        <div class="game_btm">
+                                            <div class="game_btm_L">
+                                                    <div class="red_ball">B</div>
+                                                    <span class="bankCount">5</span>
+                                                </div>
+                                                <div class="game_btm_L">
+                                                    <div class="blue_ball">P</div>
+                                                    <span class="playerCount">4</span>
+                                                </div>
+                                                <div class="game_btm_L">
+                                                    <div class="green_ball">T</div>
+                                                    <span class="tieCount">2</span>
+                                                </div>
+                                            <div class="game_btm_R">
+                                                <div class="game_select" style="display:none;">Chọn chỗ</div>
+                                            <div class="game_enter">Vào chơi</div>
+                                            </div>
+                                        </div>
+                                     </div><div class="game_box" id="11_103" style="cursor:pointer">
+                                        
+                                        <div class="game_top">
+                                            <div class="game_top_t_L">
+                                                    
+                                                    
+                                                    <span id="gtypeName" class="green_t3">CN Baccarat</span><span class="orange_t"></span><span class="game_number">C</span>
+                                            </div>
+                                            <div class="game_top_t_R">
+                                                <div style="" class="countNum reciprocal 11_103_status">11</div>
+                                            </div>
+                                        </div>
+                                       <div class="game_m ">
+                                            <div class="girl_photo">
+                                                <img style="width:97px;height:107px" src="https://multimedia.cpdx2577.net/OutputIOContext/Dealer/70001.jpg">
+                                                <div class="girl_name girl_bg01" style="display:block;"><span>Maia</span></div>
+                                            </div>
+                                                
+                                                <div class="RoadGame_T"><div class="road_Blackout"><div class="hall_ballCount">
+                                        <div class="hall_countTitle"><div class="hall_countImg redBall_banker"></div></div>
+                                        <div class="hall_percentLine"><div class="percentLine_red" style="width:48%;"></div></div>
+                                        <div class="hall_countText_red"><div>48%</div></div>
+                                    </div><div class="hall_ballCount">
+                                        <div class="hall_countTitle"><div class="hall_countImg blueBall_player"></div></div>
+                                        <div class="hall_percentLine"><div class="percentLine_blue" style="width:47%;"></div></div>
+                                        <div class="hall_countText_blue"><div>47%</div></div>
+                                    </div><div class="hall_ballCount">
+                                        <div class="hall_countTitle"><div class="hall_countImg greenBall_sum"></div></div>
+                                        <div class="hall_percentLine"><div class="percentLine_green" style="width:5%;"></div></div>
+                                        <div class="hall_countText_green"><div>5%</div></div>
+                                    </div></div><div class="bg_BacPromptBox"><div class="bg_BacPrompt"><div class="bg_SetIn"><span class="R_PromptT2">Bệt Cái</span><span class="R_PromptT">4</span></div></div><div class="bg_BacPromptTriangle"></div></div><table cellpadding="0" cellspacing="0" class="round dataInput_big roadBack" style="background-color: rgb(240, 240, 240); background-size: 18px 18px;"><tbody><tr><td><div class="blue_spot_s btm_R"></div><div class="red_ball_s">B</div></td><td><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td><div class="red_ball_s">B</div></td><td></td></tr><tr><td><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td><div class="red_spot_s top_L"></div><div class="red_ball_s">B</div></td><td><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td></td></tr><tr><td><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td><div class="red_spot_s top_L"></div><div class="red_ball_s">B</div></td><td><div class="red_ball_s">B</div></td><td><div class="red_ball_s">B</div></td><td></td></tr><tr><td><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td><div class="red_ball_s">B</div></td><td><div class="blue_spot_s btm_R"></div><div class="red_ball_s">B</div></td><td></td></tr><tr><td><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td><div class="red_spot_s top_L"></div><div class="blue_ball_s">P</div></td><td><div class="blue_spot_s btm_R"></div><div class="red_ball_s">B</div></td><td><div class="red_ball_s">B</div></td><td></td></tr><tr><td><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td><div class="red_ball_s">B</div></td><td><div class="red_ball_s">B</div></td><td></td></tr></tbody></table><table cellpadding="0" cellspacing="0" class="big dataInput_small roadBack" style="background-color: rgb(240, 240, 240); background-size: 12.8px 13.8px;"><tbody><tr><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div><div class="red_spot_s top_L"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="s6_ring"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div><div class="blue_spot_s btm_R"></div></td><td><div class="ba_linkBox"><div class="ba_link_blue link_btm"></div></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="s6_ring"></div><div class="red_spot_s top_L"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td></td></tr><tr><td></td><td></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div><div class="red_spot_s top_L"></div></td><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="green_block"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div><div class="blue_spot_s btm_R"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td></td><td><div class="ba_linkBox"><div class="ba_link_blue link_top"></div><div class="ba_link_blue link_btm"></div></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div><div class="red_spot_s top_L"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div><div class="red_spot_s top_L"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td></td><td><div class="ba_linkBox"></div><div class="red_ring"></div><div class="blue_spot_s btm_R"></div></td><td></td></tr><tr><td></td><td></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="s6_ring"></div></td><td></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td></td><td><div class="ba_linkBox"></div><div class="green_block"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div><div class="red_spot_s top_L"></div></td><td></td><td><div class="ba_linkBox"><div class="ba_link_blue link_top"></div><div class="ba_link_blue link_btm"></div></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="s6_ring"></div><div class="blue_spot_s btm_R"></div></td><td></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div><div class="blue_spot_s btm_R"></div></td><td></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"><div class="ba_link_blue link_top"></div><div class="ba_link_blue link_btm"></div></div><div class="blue_ring"></div></td><td></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="s6_ring"></div></td><td></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"><div class="ba_link_blue link_top"></div><div class="ba_link_blue link_btm"></div></div><div class="blue_ring"></div></td><td></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="green_block"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"><div class="ba_link_blue link_top"></div><div class="ba_link_blue link_btm"></div></div><div class="blue_ring"></div></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"><div class="ba_link_blue link_top"></div><div class="ba_link_blue link_btm"></div></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"><div class="ba_link_blue link_top"></div><div class="ba_link_blue link_right"></div></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td><div class="ba_linkBox"><div class="ba_link_blue link_left"></div><div class="ba_link_blue link_right"></div></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"><div class="ba_link_blue link_left"></div><div class="ba_link_blue link_right"></div></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td><div class="ba_linkBox"><div class="ba_link_blue link_left"></div><div class="ba_link_blue link_right"></div></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"><div class="ba_link_blue link_left"></div></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td></td><td></td></tr></tbody></table></div>
+                                        </div>
+                                        <div class="game_btm">
+                                            <div class="game_btm_L">
+                                                    <div class="red_ball">B</div>
+                                                    <span class="bankCount">32</span>
+                                                </div>
+                                                <div class="game_btm_L">
+                                                    <div class="blue_ball">P</div>
+                                                    <span class="playerCount">31</span>
+                                                </div>
+                                                <div class="game_btm_L">
+                                                    <div class="green_ball">T</div>
+                                                    <span class="tieCount">3</span>
+                                                </div>
+                                            <div class="game_btm_R">
+                                                <div class="game_select" style="display:none;">Chọn chỗ</div>
+                                            <div class="game_enter">Vào chơi</div>
+                                            </div>
+                                        </div>
+                                     </div><div class="game_box" id="11_104" style="cursor:pointer">
+                                        
+                                        <div class="game_top">
+                                            <div class="game_top_t_L">
+                                                    
+                                                    
+                                                    <span id="gtypeName" class="green_t3">CN Baccarat</span><span class="orange_t"></span><span class="game_number">D</span>
+                                            </div>
+                                            <div class="game_top_t_R">
+                                                <div style="" class="countNum reciprocal 11_104_status">17</div>
+                                            </div>
+                                        </div>
+                                       <div class="game_m ">
+                                            <div class="girl_photo">
+                                                <img style="width:97px;height:107px" src="https://multimedia.cpdx2577.net/OutputIOContext/Dealer/70022.jpg">
+                                                <div class="girl_name girl_bg01" style="display:block;"><span>Qoo</span></div>
+                                            </div>
+                                                
+                                                <div class="RoadGame_T"><div class="road_Blackout"><div class="hall_ballCount">
+                                        <div class="hall_countTitle"><div class="hall_countImg redBall_banker"></div></div>
+                                        <div class="hall_percentLine"><div class="percentLine_red" style="width:27%;"></div></div>
+                                        <div class="hall_countText_red"><div>27%</div></div>
+                                    </div><div class="hall_ballCount">
+                                        <div class="hall_countTitle"><div class="hall_countImg blueBall_player"></div></div>
+                                        <div class="hall_percentLine"><div class="percentLine_blue" style="width:68%;"></div></div>
+                                        <div class="hall_countText_blue"><div>68%</div></div>
+                                    </div><div class="hall_ballCount">
+                                        <div class="hall_countTitle"><div class="hall_countImg greenBall_sum"></div></div>
+                                        <div class="hall_percentLine"><div class="percentLine_green" style="width:5%;"></div></div>
+                                        <div class="hall_countText_green"><div>5%</div></div>
+                                    </div></div><div class="bg_BacPromptBox" style="display:none;will-change: transform"><div class="bg_BacPrompt"></div><div class="bg_BacPromptTriangle"></div></div><table cellpadding="0" cellspacing="0" class="round dataInput_big roadBack" style="background-color: rgb(240, 240, 240); background-size: 18px 18px;"><tbody><tr><td><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td><div class="red_spot_s top_L"></div><div class="red_ball_s">B</div></td><td><div class="blue_ball_s">P</div></td><td></td><td></td></tr><tr><td><div class="red_spot_s top_L"></div><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td><div class="blue_spot_s btm_R"></div><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td></td><td></td></tr><tr><td><div class="blue_ball_s">P</div></td><td><div class="red_ball_s">B</div></td><td><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td></td><td></td></tr><tr><td><div class="blue_spot_s btm_R"></div><div class="blue_ball_s">P</div></td><td><div class="red_ball_s">B</div></td><td><div class="red_spot_s top_L"></div><div class="blue_ball_s">P</div></td><td><div class="red_ball_s">B</div></td><td></td><td></td></tr><tr><td><div class="blue_ball_s">P</div></td><td><div class="red_ball_s">B</div></td><td><div class="blue_ball_s">P</div></td><td></td><td></td><td></td></tr><tr><td><div class="red_ball_s">B</div></td><td><div class="blue_ball_s">P</div></td><td><div class="green_ball_s">T</div></td><td></td><td></td><td></td></tr></tbody></table><table cellpadding="0" cellspacing="0" class="big dataInput_small roadBack" style="background-color: rgb(240, 240, 240); background-size: 12.8px 13.8px;"><tbody><tr><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div><div class="red_spot_s top_L"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div><div class="blue_spot_s btm_R"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><div class="ba_linkBox"></div><div class="blue_ring"></div><div class="red_spot_s top_L"></div></td><td></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div><div class="red_spot_s top_L"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><div class="ba_linkBox"></div><div class="blue_ring"></div><div class="blue_spot_s btm_R"></div></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="green_block"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table></div>
+                                        </div>
+                                        <div class="game_btm">
+                                            <div class="game_btm_L">
+                                                    <div class="red_ball">B</div>
+                                                    <span class="bankCount">6</span>
+                                                </div>
+                                                <div class="game_btm_L">
+                                                    <div class="blue_ball">P</div>
+                                                    <span class="playerCount">15</span>
+                                                </div>
+                                                <div class="game_btm_L">
+                                                    <div class="green_ball">T</div>
+                                                    <span class="tieCount">1</span>
+                                                </div>
+                                            <div class="game_btm_R">
+                                                <div class="game_select" style="display:none;">Chọn chỗ</div>
+                                            <div class="game_enter">Vào chơi</div>
+                                            </div>
+                                        </div>
+                                     </div><div class="game_box" id="11_105" style="cursor:pointer">
+                                        
+                                        <div class="game_top">
+                                            <div class="game_top_t_L">
+                                                    
+                                                    
+                                                    <span id="gtypeName" class="green_t3">CN Baccarat</span><span class="orange_t"></span><span class="game_number">E</span>
+                                            </div>
+                                            <div class="game_top_t_R">
+                                                <div style="" class="countWord reciprocal_text 11_105_status">MB</div>
+                                            </div>
+                                        </div>
+                                       <div class="game_m ">
+                                            <div class="girl_photo">
+                                                <img style="width:97px;height:107px" src="https://multimedia.cpdx2577.net/OutputIOContext/Dealer/70044.jpg">
+                                                <div class="girl_name girl_bg01" style="display:block;"><span>Elsa</span></div>
+                                            </div>
+                                                
+                                                <div class="RoadGame_T"><div class="road_Blackout"><div class="hall_ballCount">
+                                        <div class="hall_countTitle"><div class="hall_countImg redBall_banker"></div></div>
+                                        <div class="hall_percentLine"><div class="percentLine_red" style="width:52%;"></div></div>
+                                        <div class="hall_countText_red"><div>52%</div></div>
+                                    </div><div class="hall_ballCount">
+                                        <div class="hall_countTitle"><div class="hall_countImg blueBall_player"></div></div>
+                                        <div class="hall_percentLine"><div class="percentLine_blue" style="width:41%;"></div></div>
+                                        <div class="hall_countText_blue"><div>41%</div></div>
+                                    </div><div class="hall_ballCount">
+                                        <div class="hall_countTitle"><div class="hall_countImg greenBall_sum"></div></div>
+                                        <div class="hall_percentLine"><div class="percentLine_green" style="width:7%;"></div></div>
+                                        <div class="hall_countText_green"><div>7%</div></div>
+                                    </div></div><div class="bg_BacPromptBox"><div class="bg_BacPrompt"><div class="bg_SetIn"><span class="R_PromptT2">Bệt Cái</span><span class="R_PromptT">4</span></div></div><div class="bg_BacPromptTriangle"></div></div><table cellpadding="0" cellspacing="0" class="round dataInput_big roadBack" style="background-color: rgb(240, 240, 240); background-size: 18px 18px;"><tbody><tr><td><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td><div class="red_ball_s">B</div></td><td><div class="blue_ball_s">P</div></td><td></td></tr><tr><td><div class="red_ball_s">B</div></td><td><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td><div class="red_ball_s">B</div></td><td><div class="red_ball_s">B</div></td><td></td></tr><tr><td><div class="red_spot_s top_L"></div><div class="red_ball_s">B</div></td><td><div class="green_ball_s">T</div></td><td><div class="blue_spot_s btm_R"></div><div class="red_ball_s">B</div></td><td><div class="red_ball_s">B</div></td><td><div class="red_ball_s">B</div></td><td></td></tr><tr><td><div class="green_ball_s">T</div></td><td><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td><div class="red_ball_s">B</div></td><td></td></tr><tr><td><div class="red_ball_s">B</div></td><td><div class="blue_spot_s btm_R"></div><div class="red_ball_s">B</div></td><td><div class="red_ball_s">B</div></td><td><div class="blue_ball_s">P</div></td><td><div class="green_ball_s">T</div></td><td></td></tr><tr><td><div class="red_ball_s">B</div></td><td><div class="blue_ball_s">P</div></td><td><div class="red_ball_s">B</div></td><td><div class="blue_ball_s">P</div></td><td><div class="red_ball_s">B</div></td><td></td></tr></tbody></table><table cellpadding="0" cellspacing="0" class="big dataInput_small roadBack" style="background-color: rgb(240, 240, 240); background-size: 12.8px 13.8px;"><tbody><tr><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="s6_ring"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div><div class="blue_spot_s btm_R"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="s6_ring"></div><div class="red_spot_s top_L"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="s6_ring"></div><div class="blue_spot_s btm_R"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div><div class="blue_spot_s btm_R"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div><div class="blue_spot_s btm_R"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td></td></tr><tr><td></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="s6_ring"></div></td><td></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="red_ring"></div><div class="red_spot_s top_L"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="green_block"></div></td><td><div class="ba_linkBox"></div><div class="green_block"></div></td><td></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="green_block"></div></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table></div>
+                                        </div>
+                                        <div class="game_btm">
+                                            <div class="game_btm_L">
+                                                    <div class="red_ball">B</div>
+                                                    <span class="bankCount">28</span>
+                                                </div>
+                                                <div class="game_btm_L">
+                                                    <div class="blue_ball">P</div>
+                                                    <span class="playerCount">22</span>
+                                                </div>
+                                                <div class="game_btm_L">
+                                                    <div class="green_ball">T</div>
+                                                    <span class="tieCount">4</span>
+                                                </div>
+                                            <div class="game_btm_R">
+                                                <div class="game_select" style="display:none;">Chọn chỗ</div>
+                                            <div class="game_enter">Vào chơi</div>
+                                            </div>
+                                        </div>
+                                     </div><div class="game_box" id="11_106" style="cursor:pointer">
+                                        
+                                        <div class="game_top">
+                                            <div class="game_top_t_L">
+                                                    
+                                                    
+                                                    <span id="gtypeName" class="green_t3">CN Baccarat</span><span class="orange_t"></span><span class="game_number">F</span>
+                                            </div>
+                                            <div class="game_top_t_R">
+                                                <div style="" class="countWord reciprocal_text 11_106_status">MB</div>
+                                            </div>
+                                        </div>
+                                       <div class="game_m ">
+                                            <div class="girl_photo">
+                                                <img style="width:97px;height:107px" src="https://multimedia.cpdx2577.net/OutputIOContext/Dealer/70043.jpg">
+                                                <div class="girl_name girl_bg01" style="display:block;"><span>Anna</span></div>
+                                            </div>
+                                                
+                                                <div class="RoadGame_T"><div class="road_Blackout"><div class="hall_ballCount">
+                                        <div class="hall_countTitle"><div class="hall_countImg redBall_banker"></div></div>
+                                        <div class="hall_percentLine"><div class="percentLine_red" style="width:46%;"></div></div>
+                                        <div class="hall_countText_red"><div>46%</div></div>
+                                    </div><div class="hall_ballCount">
+                                        <div class="hall_countTitle"><div class="hall_countImg blueBall_player"></div></div>
+                                        <div class="hall_percentLine"><div class="percentLine_blue" style="width:46%;"></div></div>
+                                        <div class="hall_countText_blue"><div>46%</div></div>
+                                    </div><div class="hall_ballCount">
+                                        <div class="hall_countTitle"><div class="hall_countImg greenBall_sum"></div></div>
+                                        <div class="hall_percentLine"><div class="percentLine_green" style="width:8%;"></div></div>
+                                        <div class="hall_countText_green"><div>8%</div></div>
+                                    </div></div><div class="bg_BacPromptBox" style="display:none;will-change: transform"><div class="bg_BacPrompt"></div><div class="bg_BacPromptTriangle"></div></div><table cellpadding="0" cellspacing="0" class="round dataInput_big roadBack" style="background-color: rgb(240, 240, 240); background-size: 18px 18px;"><tbody><tr><td><div class="red_ball_s">B</div></td><td><div class="blue_ball_s">P</div></td><td><div class="red_spot_s top_L"></div><div class="blue_ball_s">P</div></td><td><div class="red_ball_s">B</div></td><td><div class="blue_ball_s">P</div></td><td></td></tr><tr><td><div class="green_ball_s">T</div></td><td><div class="red_ball_s">B</div></td><td><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td></td></tr><tr><td><div class="blue_ball_s">P</div></td><td><div class="blue_spot_s btm_R"></div><div class="red_ball_s">B</div></td><td><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td></td><td></td></tr><tr><td><div class="blue_ball_s">P</div></td><td><div class="red_ball_s">B</div></td><td><div class="red_ball_s">B</div></td><td><div class="red_ball_s">B</div></td><td></td><td></td></tr><tr><td><div class="red_ball_s">B</div></td><td><div class="green_ball_s">T</div></td><td><div class="blue_ball_s">P</div></td><td><div class="red_ball_s">B</div></td><td></td><td></td></tr><tr><td><div class="red_ball_s">B</div></td><td><div class="blue_ball_s">P</div></td><td><div class="red_ball_s">B</div></td><td><div class="red_ball_s">B</div></td><td></td><td></td></tr></tbody></table><table cellpadding="0" cellspacing="0" class="big dataInput_small roadBack" style="background-color: rgb(240, 240, 240); background-size: 12.8px 13.8px;"><tbody><tr><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="s6_ring"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><div class="ba_linkBox"></div><div class="green_block"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div><div class="blue_spot_s btm_R"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div><div class="red_spot_s top_L"></div></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="green_block"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table></div>
+                                        </div>
+                                        <div class="game_btm">
+                                            <div class="game_btm_L">
+                                                    <div class="red_ball">B</div>
+                                                    <span class="bankCount">12</span>
+                                                </div>
+                                                <div class="game_btm_L">
+                                                    <div class="blue_ball">P</div>
+                                                    <span class="playerCount">12</span>
+                                                </div>
+                                                <div class="game_btm_L">
+                                                    <div class="green_ball">T</div>
+                                                    <span class="tieCount">2</span>
+                                                </div>
+                                            <div class="game_btm_R">
+                                                <div class="game_select" style="display:none;">Chọn chỗ</div>
+                                            <div class="game_enter">Vào chơi</div>
+                                            </div>
+                                        </div>
+                                     </div><div class="game_box" id="10_101" style="cursor:pointer">
+                                        
+                                        <div class="game_top">
+                                            <div class="game_top_t_L">
+                                                    
+                                                    
+                                                    <span id="gtypeName" class="speed_t">Baccarat tốc độ</span><span class="orange_t"></span><span class="game_number">A</span><span class="img_speed"><img src="../Content/Images/img_bacSpeed.gif"></span>
+                                            </div>
+                                            <div class="game_top_t_R">
+                                                <div style="" class="countWord reciprocal_text 10_101_status">CB</div>
+                                            </div>
+                                        </div>
+                                       <div class="game_m ">
+                                            <div class="girl_photo">
+                                                <img style="width:97px;height:107px" src="https://multimedia.cpdx2577.net/OutputIOContext/Dealer/55340.jpg">
+                                                <div class="girl_name girl_bg03" style="display:block;"><span>Paw</span></div>
+                                            </div>
+                                                
+                                                <div class="RoadGame_T"><div class="road_Blackout"><div class="hall_ballCount">
+                                        <div class="hall_countTitle"><div class="hall_countImg redBall_banker"></div></div>
+                                        <div class="hall_percentLine"><div class="percentLine_red" style="width:62%;"></div></div>
+                                        <div class="hall_countText_red"><div>62%</div></div>
+                                    </div><div class="hall_ballCount">
+                                        <div class="hall_countTitle"><div class="hall_countImg blueBall_player"></div></div>
+                                        <div class="hall_percentLine"><div class="percentLine_blue" style="width:31%;"></div></div>
+                                        <div class="hall_countText_blue"><div>31%</div></div>
+                                    </div><div class="hall_ballCount">
+                                        <div class="hall_countTitle"><div class="hall_countImg greenBall_sum"></div></div>
+                                        <div class="hall_percentLine"><div class="percentLine_green" style="width:7%;"></div></div>
+                                        <div class="hall_countText_green"><div>7%</div></div>
+                                    </div></div><div class="bg_BacPromptBox" style="display:none;will-change: transform"><div class="bg_BacPrompt"></div><div class="bg_BacPromptTriangle"></div></div><table cellpadding="0" cellspacing="0" class="round dataInput_big roadBack" style="background-color: rgb(240, 240, 240); background-size: 18px 18px;"><tbody><tr><td><div class="red_ball_s">B</div></td><td><div class="red_ball_s">B</div></td><td><div class="green_ball_s">T</div></td><td><div class="red_ball_s">B</div></td><td><div class="red_ball_s">B</div></td><td></td></tr><tr><td><div class="red_ball_s">B</div></td><td><div class="blue_ball_s">P</div></td><td><div class="red_ball_s">B</div></td><td><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td></td></tr><tr><td><div class="blue_ball_s">P</div></td><td><div class="red_spot_s top_L"></div><div class="red_ball_s">B</div></td><td><div class="red_ball_s">B</div></td><td><div class="red_ball_s">B</div></td><td></td><td></td></tr><tr><td><div class="red_spot_s top_L"></div><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td><div class="red_ball_s">B</div></td><td><div class="blue_ball_s">P</div></td><td></td><td></td></tr><tr><td><div class="red_spot_s top_L"></div><div class="blue_ball_s">P</div></td><td><div class="red_ball_s">B</div></td><td><div class="red_ball_s">B</div></td><td><div class="green_ball_s">T</div></td><td></td><td></td></tr><tr><td><div class="red_ball_s">B</div></td><td><div class="red_ball_s">B</div></td><td><div class="red_ball_s">B</div></td><td><div class="red_ball_s">B</div></td><td></td><td></td></tr></tbody></table><table cellpadding="0" cellspacing="0" class="big dataInput_small roadBack" style="background-color: rgb(240, 240, 240); background-size: 12.8px 13.8px;"><tbody><tr><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div><div class="red_spot_s top_L"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"><div class="ba_link_red link_btm"></div></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div><div class="red_spot_s top_L"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td></td><td></td><td></td><td><div class="ba_linkBox"><div class="ba_link_red link_top"></div><div class="ba_link_red link_btm"></div></div><div class="red_ring"></div></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="green_block"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div><div class="red_spot_s top_L"></div></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"><div class="ba_link_red link_top"></div><div class="ba_link_red link_btm"></div></div><div class="green_block"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"><div class="ba_link_red link_top"></div><div class="ba_link_red link_btm"></div></div><div class="red_ring"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"><div class="ba_link_red link_top"></div><div class="ba_link_red link_btm"></div></div><div class="red_ring"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"><div class="ba_link_red link_top"></div><div class="ba_link_red link_btm"></div></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"><div class="ba_link_red link_top"></div><div class="ba_link_red link_btm"></div></div><div class="s6_ring"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"><div class="ba_link_red link_top"></div><div class="ba_link_red link_right"></div></div><div class="red_ring"></div></td><td><div class="ba_linkBox"><div class="ba_link_red link_left"></div></div><div class="s6_ring"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table></div>
+                                        </div>
+                                        <div class="game_btm">
+                                            <div class="game_btm_L">
+                                                    <div class="red_ball">B</div>
+                                                    <span class="bankCount">16</span>
+                                                </div>
+                                                <div class="game_btm_L">
+                                                    <div class="blue_ball">P</div>
+                                                    <span class="playerCount">8</span>
+                                                </div>
+                                                <div class="game_btm_L">
+                                                    <div class="green_ball">T</div>
+                                                    <span class="tieCount">2</span>
+                                                </div>
+                                            <div class="game_btm_R">
+                                                <div class="game_select" style="display:none;">Chọn chỗ</div>
+                                            <div class="game_enter">Vào chơi</div>
+                                            </div>
+                                        </div>
+                                     </div><div class="game_box" id="10_102" style="cursor:pointer">
+                                        
+                                        <div class="game_top">
+                                            <div class="game_top_t_L">
+                                                    
+                                                    
+                                                    <span id="gtypeName" class="speed_t">Baccarat tốc độ</span><span class="orange_t"></span><span class="game_number">B</span><span class="img_speed"><img src="../Content/Images/img_bacSpeed.gif"></span>
+                                            </div>
+                                            <div class="game_top_t_R">
+                                                <div style="" class="countNum reciprocal 10_102_status">1</div>
+                                            </div>
+                                        </div>
+                                       <div class="game_m ">
+                                            <div class="girl_photo">
+                                                <img style="width:97px;height:107px" src="https://multimedia.cpdx2577.net/OutputIOContext/Dealer/55106.jpg">
+                                                <div class="girl_name girl_bg03" style="display:block;"><span>Dana</span></div>
+                                            </div>
+                                                
+                                                <div class="RoadGame_T"><div class="road_Blackout"><div class="hall_ballCount">
+                                        <div class="hall_countTitle"><div class="hall_countImg redBall_banker"></div></div>
+                                        <div class="hall_percentLine"><div class="percentLine_red" style="width:30%;"></div></div>
+                                        <div class="hall_countText_red"><div>30%</div></div>
+                                    </div><div class="hall_ballCount">
+                                        <div class="hall_countTitle"><div class="hall_countImg blueBall_player"></div></div>
+                                        <div class="hall_percentLine"><div class="percentLine_blue" style="width:61%;"></div></div>
+                                        <div class="hall_countText_blue"><div>61%</div></div>
+                                    </div><div class="hall_ballCount">
+                                        <div class="hall_countTitle"><div class="hall_countImg greenBall_sum"></div></div>
+                                        <div class="hall_percentLine"><div class="percentLine_green" style="width:9%;"></div></div>
+                                        <div class="hall_countText_green"><div>9%</div></div>
+                                    </div></div><div class="bg_BacPromptBox" style="display:none;will-change: transform"><div class="bg_BacPrompt"></div><div class="bg_BacPromptTriangle"></div></div><table cellpadding="0" cellspacing="0" class="round dataInput_big roadBack" style="background-color: rgb(240, 240, 240); background-size: 18px 18px;"><tbody><tr><td><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td><div class="green_ball_s">T</div></td><td><div class="blue_ball_s">P</div></td><td></td></tr><tr><td><div class="red_ball_s">B</div></td><td><div class="red_ball_s">B</div></td><td><div class="red_ball_s">B</div></td><td><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td></td></tr><tr><td><div class="green_ball_s">T</div></td><td><div class="red_ball_s">B</div></td><td><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td></td><td></td></tr><tr><td><div class="red_spot_s top_L"></div><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td><div class="red_spot_s top_L"></div><div class="blue_ball_s">P</div></td><td></td><td></td></tr><tr><td><div class="red_spot_s top_L"></div><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td><div class="red_ball_s">B</div></td><td></td><td></td></tr><tr><td><div class="green_ball_s">T</div></td><td><div class="red_ball_s">B</div></td><td><div class="blue_ball_s">P</div></td><td><div class="green_ball_s">T</div></td><td></td><td></td></tr></tbody></table><table cellpadding="0" cellspacing="0" class="big dataInput_small roadBack" style="background-color: rgb(240, 240, 240); background-size: 12.8px 13.8px;"><tbody><tr><td><div class="ba_linkBox"></div><div class="blue_ring"></div><div class="blue_spot_s btm_R"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div><div class="red_spot_s top_L"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div><div class="red_spot_s top_L"></div></td><td><div class="ba_linkBox"></div><div class="s6_ring"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div><div class="red_spot_s top_L"></div></td><td><div class="ba_linkBox"></div><div class="s6_ring"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td></td></tr><tr><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="s6_ring"></div></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div><div class="blue_spot_s btm_R"></div></td><td><div class="ba_linkBox"></div><div class="green_block"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div><div class="red_spot_s top_L"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="green_block"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td></td></tr><tr><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td></td><td><div class="ba_linkBox"></div><div class="green_block"></div></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="green_block"></div></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div><div class="red_spot_s top_L"></div></td><td></td><td></td><td></td></tr></tbody></table></div>
+                                        </div>
+                                        <div class="game_btm">
+                                            <div class="game_btm_L">
+                                                    <div class="red_ball">B</div>
+                                                    <span class="bankCount">13</span>
+                                                </div>
+                                                <div class="game_btm_L">
+                                                    <div class="blue_ball">P</div>
+                                                    <span class="playerCount">27</span>
+                                                </div>
+                                                <div class="game_btm_L">
+                                                    <div class="green_ball">T</div>
+                                                    <span class="tieCount">4</span>
+                                                </div>
+                                            <div class="game_btm_R">
+                                                <div class="game_select" style="display:none;">Chọn chỗ</div>
+                                            <div class="game_enter">Vào chơi</div>
+                                            </div>
+                                        </div>
+                                     </div><div class="game_box" id="12_101" style="cursor:pointer">
+                                        
+                                        <div class="game_top">
+                                            <div class="game_top_t_L">
+                                                    
+                                                    
+                                                    <span id="gtypeName" class="orange_t">Baccarat</span><span class="orange_t">Mi</span><span class="game_number">A</span>
+                                            </div>
+                                            <div class="game_top_t_R">
+                                                <div style="" class="countWord reciprocal_text 12_101_status">MB</div>
+                                            </div>
+                                        </div>
+                                       <div class="game_m ">
+                                            <div class="girl_photo">
+                                                <img style="width:97px;height:107px" src="https://multimedia.cpdx2577.net/OutputIOContext/Dealer/55291.jpg">
+                                                <div class="girl_name girl_bg03" style="display:block;"><span>Hil</span></div>
+                                            </div>
+                                                
+                                                <div class="RoadGame_T"><div class="road_Blackout"><div class="hall_ballCount">
+                                        <div class="hall_countTitle"><div class="hall_countImg redBall_banker"></div></div>
+                                        <div class="hall_percentLine"><div class="percentLine_red" style="width:57%;"></div></div>
+                                        <div class="hall_countText_red"><div>57%</div></div>
+                                    </div><div class="hall_ballCount">
+                                        <div class="hall_countTitle"><div class="hall_countImg blueBall_player"></div></div>
+                                        <div class="hall_percentLine"><div class="percentLine_blue" style="width:30%;"></div></div>
+                                        <div class="hall_countText_blue"><div>30%</div></div>
+                                    </div><div class="hall_ballCount">
+                                        <div class="hall_countTitle"><div class="hall_countImg greenBall_sum"></div></div>
+                                        <div class="hall_percentLine"><div class="percentLine_green" style="width:13%;"></div></div>
+                                        <div class="hall_countText_green"><div>13%</div></div>
+                                    </div></div><div class="bg_BacPromptBox" style="display:none;will-change: transform"><div class="bg_BacPrompt"></div><div class="bg_BacPromptTriangle"></div></div><table cellpadding="0" cellspacing="0" class="round dataInput_big roadBack" style="background-color: rgb(240, 240, 240); background-size: 18px 18px;"><tbody><tr><td><div class="blue_spot_s btm_R"></div><div class="blue_ball_s">P</div></td><td><div class="red_ball_s">B</div></td><td><div class="red_ball_s">B</div></td><td><div class="green_ball_s">T</div></td><td></td><td></td></tr><tr><td><div class="red_ball_s">B</div></td><td><div class="green_ball_s">T</div></td><td><div class="red_ball_s">B</div></td><td><div class="blue_ball_s">P</div></td><td></td><td></td></tr><tr><td><div class="red_spot_s top_L"></div><div class="blue_ball_s">P</div></td><td><div class="blue_ball_s">P</div></td><td><div class="red_ball_s">B</div></td><td><div class="blue_ball_s">P</div></td><td></td><td></td></tr><tr><td><div class="red_ball_s">B</div></td><td><div class="blue_ball_s">P</div></td><td><div class="red_ball_s">B</div></td><td><div class="red_ball_s">B</div></td><td></td><td></td></tr><tr><td><div class="red_ball_s">B</div></td><td><div class="red_ball_s">B</div></td><td><div class="red_ball_s">B</div></td><td><div class="red_ball_s">B</div></td><td></td><td></td></tr><tr><td><div class="blue_ball_s">P</div></td><td><div class="green_ball_s">T</div></td><td><div class="blue_spot_s btm_R"></div><div class="red_ball_s">B</div></td><td></td><td></td><td></td></tr></tbody></table><table cellpadding="0" cellspacing="0" class="big dataInput_small roadBack" style="background-color: rgb(240, 240, 240); background-size: 12.8px 13.8px;"><tbody><tr><td><div class="ba_linkBox"></div><div class="blue_ring"></div><div class="blue_spot_s btm_R"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div><div class="red_spot_s top_L"></div></td><td><div class="ba_linkBox"></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"><div class="ba_link_red link_btm"></div></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"></div></td><td><div class="ba_linkBox"></div><div class="s6_ring"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td><div class="ba_linkBox"></div><div class="s6_ring"></div></td><td></td><td><div class="ba_linkBox"></div><div class="green_block"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td><div class="ba_linkBox"><div class="ba_link_red link_top"></div><div class="ba_link_red link_btm"></div></div><div class="green_block"></div></td><td><div class="ba_linkBox"></div><div class="blue_ring"><div class="brand_blue_ring"></div></div></td><td><div class="ba_linkBox"></div><div class="red_ring"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"><div class="ba_link_red link_top"></div><div class="ba_link_red link_btm"></div></div><div class="red_ring"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"><div class="ba_link_red link_top"></div><div class="ba_link_red link_btm"></div></div><div class="red_ring"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"><div class="ba_link_red link_top"></div><div class="ba_link_red link_btm"></div></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"><div class="ba_link_red link_top"></div><div class="ba_link_red link_btm"></div></div><div class="red_ring"><div class="brand_red_ring"></div></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"><div class="ba_link_red link_top"></div><div class="ba_link_red link_btm"></div></div><div class="red_ring"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><div class="ba_linkBox"><div class="ba_link_red link_top"></div><div class="ba_link_red link_right"></div></div><div class="red_ring"><div class="brand_red_ring"></div></div><div class="blue_spot_s btm_R"></div></td><td><div class="ba_linkBox"><div class="ba_link_red link_left"></div></div><div class="green_block"></div></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table></div>
+                                        </div>
+                                        <div class="game_btm">
+                                            <div class="game_btm_L">
+                                                    <div class="red_ball">B</div>
+                                                    <span class="bankCount">13</span>
+                                                </div>
+                                                <div class="game_btm_L">
+                                                    <div class="blue_ball">P</div>
+                                                    <span class="playerCount">7</span>
+                                                </div>
+                                                <div class="game_btm_L">
+                                                    <div class="green_ball">T</div>
+                                                    <span class="tieCount">3</span>
+                                                </div>
+                                            <div class="game_btm_R">
+                                                <div class="game_select" style="display:none;">Chọn chỗ</div>
+                                            <div class="game_enter">Vào chơi</div>
+                                            </div>
+                                        </div>
+                                     </div></div>
